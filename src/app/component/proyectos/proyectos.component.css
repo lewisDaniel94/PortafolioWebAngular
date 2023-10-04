@@ -1,0 +1,25 @@
+.row{
+    
+    border: 1px solid rgb(236, 234, 234);
+    border-radius: 10px;
+    margin: 10px;
+    padding: 15px;
+
+}
+h2{
+    text-align: center;
+}
+.contenedor{
+
+    width: auto;
+
+}
+.parte1, .parte2{
+    display: inline-block;
+
+}
+.img-proyecto{
+   margin-left: 70px;
+   width: 150 px ;
+   height: 120px;
+}
